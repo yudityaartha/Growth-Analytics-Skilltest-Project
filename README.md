@@ -1,11 +1,11 @@
-# 📊 Growth Data Analyst – Case Study  
+# Growth Data Analyst – Case Study  
 
 This project is a skill test completed as part of the Data Analyst recruitment process on **Aug 2025**.  
 It includes data cleaning, profitability analysis, and business insights with actionable recommendations.  
 
 ---
 
-## 📝 Case Overview  
+## Case Overview  
 
 The test consisted of three main parts:  
 
@@ -48,16 +48,15 @@ The test consisted of three main parts:
 ## 🛠️ Tools Used  
 - Excel / Google Sheets → data cleaning & analysis.  
 - PowerPoint → business storytelling.  
-- Tableau (optional extension) → charts & visualization experiments.  
 
 ---
 
+```
 ## 📂 Repository Structure  
-├── data/ # Raw and cleaned dataset
-├── analysis/ # Process docs, calculations
-├── presentation/ # Final PPT deck
-├── README.md # Project documentation (this file)
-
+├── Growth Analytics Study Case.xlsx/ # Raw and cleaned dataset
+├── Growth Analytics Study Case.pptx/ # Final PPT (.pdf)
+├── README.md
+```
 
 ---
 
