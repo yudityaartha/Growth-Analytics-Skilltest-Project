@@ -74,4 +74,4 @@ The test consisted of three main parts:
 **Yuditya Artha** – Licensed Apothecary Graduate & Aspiring Data Scientist  
 *Data Analyst | SQL | Python | R | Power BI | Tableau*  
 📊 Transitioning into Data Analytics & Data Science & Passionate about using data to solve real-world problems across industries
-🔗 [LinkedIn](https://linkedin.com/in/yuditya-artha) | [GitHub](https://github.com/yudityaartha)  
+🔗 [LinkedIn](https://linkedin.com/in/yuditya-artha) | [GitHub](https://github.com/yudityaartha)  | [Tableau Public](https://public.tableau.com/app/profile/yuditya.artha/vizzes)
