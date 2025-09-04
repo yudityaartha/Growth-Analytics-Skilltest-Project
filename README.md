@@ -1,4 +1,4 @@
-# Growth Data Analyst – Case Study  
+# Data Analytics – Case Study  
 
 This project is a skill test completed as part of the Data Analyst recruitment process on **Aug 2025**.  
 It includes data cleaning, profitability analysis, and business insights with actionable recommendations.  
